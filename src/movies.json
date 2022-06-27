@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Bachchhan Pandey",
+        "category": "Action, Bollywood Movies, Comedy, Crime, Featured, Latest Movies, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Bachchhan.Paandey.mp4?download=true&title=Bachchhan%20Paandey",
+        "id": 0,
+        "images": "../images/bachchhan-pandey.jpg"
+    },
+    {
+        "title": "Dasvi",
+        "category": "Bollywood Movies, Comedy, Drama, Featured, Latest Movies, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Dasvi.2022.mp4?download=true&title=Dasvi",
+        "id": 1,
+        "images": "../images/dasvi.jpg"
+    },
+    {
+        "title": "Gangubai Khatiyawadi",
+        "category": "Bollywood Movies, Crime, Drama, Featured, Latest Movies, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Gangubai%20Kathiawadi%20%202022.mp4?download=true&title=Gangubai%20Kathiawadi",
+        "id": 2,
+        "images": "../images/gangubai-khatiyawadi.jpg"
+    },
+    {
+        "title": "Heropanti2",
+        "category": "Action, Bollywood Movies, Drama, Romance, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/HeroPanti.2.2022.mp4?download=true&title=Heropanti%202",
+        "id": 3,
+        "images": "../images/heropanti2.jpg"
+    },
+    {
+        "title": "Jalsa",
+        "category": "Bollywood Movies, Drama, Featured, Latest Movies, Thriller, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Jalsa.2022.mp4?download=true&title=Jalsa",
+        "id": 4,
+        "images": "../images/jalsa.jpg"
+    },
+    {
+        "title": "Jersey",
+        "category": "Bollywood Movies, Drama, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Jersey%202022.mp4?download=true&title=Jersey",
+        "id": 5,
+        "images": "../images/jersey.jpg"
+    },
+    {
+        "title": "KFG Chapter2",
+        "category": "Action, Drama, Featured, Music, Telugu Movies, Thriller, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/K.G.F%20Chapter%202.mp4?download=true&title=K.G.F:%20Chapter%202",
+        "id": 6,
+        "images": "../images/kgf2.jpg"
+    },
+    {
+        "title": " RRR",
+        "category": "Action, Drama, History, Telugu Movies, War, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/R.R.R.2022.mp4?download=true&title=RRR",
+        "id": 7,
+        "images": "../images/rrr.jpg"
+    },
+    {
+        "title": "Runway34",
+        "category": "Bollywood Movies, Drama, Thriller, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Runway.34.2022.mp4?download=true&title=Runway%2034",
+        "id": 8,
+        "images": "../images/runway34.jpg"
+    },
+    {
+        "title": "A Thursday",
+        "category": "Bollywood Movies, Crime, Featured, Latest Movies, Thriller, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/A%20Thursday.mp4?download=true&title=A%20Thursday",
+        "id": 9,
+        "images": "../images/a-thursday.jpg"
+    },
+    {
+        "title": "Gehraiyaan",
+        "category": "Bollywood Movies, Drama, Featured, Latest Movies, Romance, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Gehraiyaan.mp4?download=true&title=Gehraiyaan",
+        "id": 10,
+        "images": "../images/gehraiyaan.jpg"
+    },
+    {
+        "title": "Sharmaji Namkeen",
+        "category": "Bollywood Movies, Comedy, Drama, Featured, Latest Movies, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Sharmaji.Namkeen.mp4?download=true&title=Sharmaji%20Namkeen",
+        "id": 11,
+        "images": "../images/sharmaji-namkeen.jpg"
+    },
+    {
+        "title": "The Kashmir Files",
+        "category": "Action, Bollywood Movies, Drama, History, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/The.Kashmir.Files.2022.mp4?download=true&title=The%20Kashmir%20Files",
+        "id": 12,
+        "images": "../images/thekashmirfiles.jpg"
+    },
+    {
+        "title": "Jayeshbhai Jordaar",
+        "category": "Bollywood Movies, Comedy, Drama, Romance, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Jayeshbhai%20Jordaar.mp4?download=true&title=Jayeshbhai%20Jordaar",
+        "id": 13,
+        "images": "../images/jayeshbhai-jordaar.jpg"
+    },
+    {
+        "title": "Pushpa: The Rise",
+        "category": "Action, Crime, Drama, Latest Movies, Telugu Movies, Thriller, India",
+        "url": "https://indiamovie2.b-cdn.net/disk2/movies/Pushpa%20The%20Rise.mp4?download=true&title=Pushpa:%20The%20Rise",
+        "id": 13,
+        "images": "../images/pushpa.jpg"
+    }   
+]

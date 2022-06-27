@@ -1,0 +1,51 @@
+.videoCaption{
+    padding:0 0 10px 0;
+    h1{
+        font-size: 24px;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+    button{
+        width: 32px;
+        height: 32px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        &::after{
+            width: 20px;
+            height: 3px;
+            background-color: #e85631;
+            content: "";
+            position: absolute;
+            transform: rotate(45deg);
+        }
+        &::before{
+            width: 20px;
+            height: 3px;
+            background-color: #e85631;
+            content: "";
+            position: absolute;
+            transform: rotate(-45deg);
+            transition: all 0.25s;
+        }
+        &:hover{
+            transform: rotate(180deg);
+            transition: all 0.25s;
+        }
+    }
+   
+}
+
+.hideIframe{
+    min-height: 440px;
+    max-height: 350px;
+    overflow: hidden;
+    iframe{
+        top: -280px;
+    }
+}
+
+.ReactModal__Overlay{
+    background-color: rgba(0,0,0,0.9) !important;
+}
