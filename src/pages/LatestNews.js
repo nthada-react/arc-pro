@@ -17,7 +17,7 @@ const LatestNews = () => {
   const dispatch = useDispatch();
 
   const fetchNews = async () =>{
-    const response = await axios.get("https://mocki.io/v1/7a4e9b8c-9553-47dd-bdf8-6576aa597e2b")
+    const response = await axios.get("https://mocki.io/v1/f35ef74f-74ae-4aeb-8fb2-ceb475bb3f1a")
     .catch((error)=>{
       console.log('Error', error)
     });
